@@ -1,2 +1,0 @@
-# Picbed
-Github图床
